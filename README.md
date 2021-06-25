@@ -5,7 +5,7 @@
 [Learn CSS](https://www.codecademy.com/learn/learn-css) courses. This project
 was completed for learning purposes and to practice HTML and CSS.
 
-> Live demo [_here_](https://www.example.com)
+> Live demo [_here_](https://rzvl.github.io/tea-cozy/)
 
 
 ## General Information
